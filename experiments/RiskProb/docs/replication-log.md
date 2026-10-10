@@ -49,3 +49,23 @@ preprocessing, and evaluation protocol have been verified.
 
 - Repository: https://github.com/lindan113/RiskProp
 - Inspected commit: `ecfae2cae98a4420c1e643818cac33ba9b3e4301`
+
+## 2026-10-10 — Dataset access request
+
+### Action taken
+- Sent an email to the RiskProp paper's first author requesting access
+  to the original dataset files.
+
+### Files requested
+- Transaction_Information.csv
+- Account_Information.csv
+- all_hash_0_hop_643_labels.csv
+
+### Status
+WAITING: Author response pending.
+
+### Next actions
+1. Inspect the original implementation while waiting.
+2. Verify the dataset files and their schemas if received.
+3. Record the data source and checksums.
+4. Run the experiments only after the required inputs are available.

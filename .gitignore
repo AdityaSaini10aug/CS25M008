@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets and local environment settings
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated files
+*.log

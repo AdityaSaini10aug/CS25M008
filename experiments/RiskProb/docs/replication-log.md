@@ -44,3 +44,8 @@ BLOCKED: Required upstream dataset files are missing.
 ### Reproducibility caution
 Do not claim exact replication until the required dataset,
 preprocessing, and evaluation protocol have been verified.
+
+## Upstream source version
+
+- Repository: https://github.com/lindan113/RiskProp
+- Inspected commit: `ecfae2cae98a4420c1e643818cac33ba9b3e4301`

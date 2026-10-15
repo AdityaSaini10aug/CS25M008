@@ -17,12 +17,12 @@
 ## Setup status
 - [x] Workspace created
 - [x] System environment recorded
-- [ ] Compatible Python environment configured
-- [ ] Dependencies installed
-- [ ] Original scripts inspected
-- [ ] Unsupervised RiskProp executed
-- [ ] RiskProp+ executed
-- [ ] Results compared with the paper
+- [x] Compatible Python environment configured
+- [x] Dependencies installed
+- [x] Original scripts inspected
+- [x] Unsupervised RiskProp executed
+- [x] RiskProp+ executed
+- [x] Results compared with the paper
 
 ## Notes
 The installed system Python will not be modified.

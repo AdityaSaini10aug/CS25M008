@@ -29,7 +29,7 @@ The results were generated using the authors' original scripts and supplied data
 | Metric | Paper: Unsupervised RiskProp | Our unsupervised result (803 labels) | Paper: RiskProp+ | Our supervised result (160 additional labels) |
 |---|---:|---:|---:|---:|
 | Precision | 71.48% | 71.48% | 70.91% | 70.91% |
-| Recall | 82.88 | 81.48% | 84.78% | 84.78% |
+| Recall | 82.88% | 81.48% | 84.78% | 84.78% |
 | F1-score | 76.15% | 76.15% | 77.23% | 77.23% |
 | Accuracy | 84.56% | 84.56% | 85.63% | 85.62% |
 | AUC | 83.69% | Not yet compared on the same evaluation basis | 85.37% | 90.95% |
